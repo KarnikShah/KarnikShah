@@ -10,8 +10,8 @@
 - 🌱 I’m currently Exploring myself in different areas
 - 👯 I’m looking to collaborate with web development & python projects
 - ⚡ Fun fact: I love to travel and playing games
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: shahkarnik.18beceg030@gmail.com;
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: shahkarnik.18beceg030@gmail.com
 
 <br />
 
