@@ -1,6 +1,5 @@
 ### Hey 👋🏽, I'm Karnik
 
-<br />
 
 ## I'm a Developer and student!!
 
