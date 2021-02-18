@@ -27,16 +27,16 @@
 <br/>
 
 <br/>
-
-<summary><b>GitHub Stats</b></summary>
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=KarnikShah&count_private=true&show_icons=truehow_icons=true" /> 
-
- 
 <details>
-<summary><b>Most Used Languages</b></summary>
+<summary><b>GitHub Stats</b></summary><br/>
+<img alt="" src="https://github-readme-stats.vercel.app/api?username=KarnikShah&count_private=true&show_icons=truehow_icons=true" /> 
+</details>
+ <br/>
+<details>
+<summary><b>Most Used Languages</b></summary><br/>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarnikShah&count_private=true&show_icons=truehow_icons=true&width=100%" />
 </details>
-
+<br/>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=KarnikShah" />
 <img src="https://badges.pufler.dev/years/Karnik?&logo=github&logoColor=yellow" />
