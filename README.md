@@ -8,8 +8,8 @@
 
 - 🔭 I'm currently Working to become better day-by-day
 - 🌱 I’m currently Exploring myself in different areas
-- 👯 I’m looking to collaborate with web development & python projects
-- ⚡ Fun fact: I love to travel and playing games
+- 👯 I’m looking to collaborate with Web Development & Python Projects
+- ⚡ Fun fact: I love to Travel and Play Games
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: shahkarnik.18beceg030@gmail.com
 
@@ -28,12 +28,12 @@
 
 <br/>
 <details>
-<summary><b>GitHub Stats</b></summary><br/>
+<summary><b>GitHub Stats:</b></summary><br/>
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=KarnikShah&count_private=true&show_icons=truehow_icons=true" /> 
 </details>
  <br/>
 <details>
-<summary><b>Most Used Languages</b></summary><br/>
+<summary><b>Most Used Languages:</b></summary><br/>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarnikShah&count_private=true&show_icons=truehow_icons=true&width=100%" />
 </details>
 <br/>
