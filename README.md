@@ -14,7 +14,6 @@
 - 📫 How to reach me: shahkarnik.18beceg030@gmail.com;
 
 <br />
-<br />
 
 
 <h3 align="left">Connect with me:</h3>
@@ -24,7 +23,7 @@
 <a href="" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height="30" width="40" /></a>
 <a href="" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height="30" width="40" /></a>
 </p>
-
+<br/>
 <h2>Skills</h2>
 <p> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="70"/><img src="https://github.com/annshiv/annshiv/blob/main/Materials/js.gif" height="70">
