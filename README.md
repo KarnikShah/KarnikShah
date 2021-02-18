@@ -5,7 +5,7 @@
 ## I'm a Developer and student!!
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-<br/>
+
 - 🔭 I'm currently Working to become better day-by-day
 - 🌱 I’m currently Exploring myself in different areas
 - 👯 I’m looking to collaborate with web development & python projects
@@ -13,6 +13,7 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: shahkarnik.18beceg030@gmail.com;
 
+<br />
 <br />
 
 
