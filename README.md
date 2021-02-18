@@ -1,14 +1,15 @@
 ### Hey 👋🏽, I'm Karnik
 
+<br />
 
 ## I'm a Developer and student!!
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-- 🔭 I'm currently working to make my portfolio website
+- 🔭 I'm currently working to become better day by day
 - 🌱 I’m currently learning
 - 👯 I’m looking to collaborate with web development & python projects
-- 🥅 2021 Goals: Try to Contribute
+- 🥅 2021 Goals: Trying to Contribute
 - ⚡ Fun fact: I love to travel and playing games
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: shahkarnik.18beceg030@gmail.com;
@@ -18,8 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tushar-r-849510116" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tush_tr" height="30" width="40" /></a>
+<a href="" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
+<a href="" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40" /></a>
+<a href="" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height="30" width="40" /></a>
 </p>
 
 <h2>Skills</h2>
@@ -35,12 +38,8 @@
 
 </p>
 
-
-
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=KarnikShah" />
 <img src="https://badges.pufler.dev/years/Karnik?&logo=github&logoColor=yellow" />
 <img src="https://badges.pufler.dev/repos/KarnikShah?&logo=github&logoColor=yellow" />
 <img src="https://badges.pufler.dev/commits/monthly/KarnikShah?&logo=github&logoColor=yellow" />
-
