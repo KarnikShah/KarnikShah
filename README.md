@@ -25,23 +25,12 @@
 </p>
 <br/>
 <br/>
-<h2>Skills</h2>
-<p> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="70"/><img src="https://github.com/annshiv/annshiv/blob/main/Materials/js.gif" height="70">
-</p>
 
-<h3>Development tools and frameworks:</h3>
-<p>
-<img src="https://github.com/annshiv/annshiv/blob/main/Materials/html.gif" alt="html5" width="50" height="60"/> 
-<img src="https://github.com/annshiv/annshiv/blob/main/Materials/css.gif" alt="css3" width="50" height="60"/>
-<img src="https://github.com/annshiv/annshiv/blob/main/Materials/bootstrap.gif" alt="bootstrap" width="50" height="60"/> 
-
-</p>
 <br/>
-<details>
+
 <summary><b>GitHub Stats</b></summary>
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=KarnikShah&count_private=true&show_icons=truehow_icons=true" /> 
-</details>
+
  
 <details>
 <summary><b>Most Used Languages</b></summary>
