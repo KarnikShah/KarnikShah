@@ -2,7 +2,7 @@
 
 <br />
 
-## I'm a Developer and student!!
+## I'm a Developer and Student !!
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
