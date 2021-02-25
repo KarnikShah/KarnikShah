@@ -4,7 +4,7 @@
 
 ## I'm a Developer and Student !!
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/source.gif" />
+  <img align="right" height="250px" width="250px" alt="GIF" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/source.gif" />
 
 - 🔭 I'm currently Working to become better day-by-day
 - 🌱 I’m currently Exploring myself in different areas
