@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm Karnik
+## Hey 👋🏽, I'm Karnik Shah
 
 <br />
 
