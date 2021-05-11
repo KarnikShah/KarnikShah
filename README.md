@@ -39,7 +39,6 @@
 <br/>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=KarnikShah" />
-<img src="https://badges.pufler.dev/years/Karnik?&logo=github&logoColor=yellow" />
 <img src="https://badges.pufler.dev/repos/KarnikShah?&logo=github&logoColor=yellow" />
 <img src="https://badges.pufler.dev/commits/monthly/KarnikShah?&logo=github&logoColor=yellow" />
 </p>
