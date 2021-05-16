@@ -1,4 +1,4 @@
-## Hey 👋🏽, I'm Karnik Shah
+## Hey <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">, I'm Karnik Shah
 
 <br />
 
