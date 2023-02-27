@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate with Web Development & Python Projects
 - ⚡ Fun fact: I love to Travel and Watch Movies
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: karnik.180410107104@gmail.com
+- 📫 How to reach me: shahkarnik12@gmail.com
 
 <br />
 
