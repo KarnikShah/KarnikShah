@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently Working to become better day-by-day
 - 🌱 I’m currently Exploring myself in different areas
-- 👯 I’m looking to collaborate with Web Development & Python Projects
+- 👯 I’m looking to collaborate with Data Analytics, Web Development & Python Projects
 - ⚡ Fun fact: I love to Travel and Watch Movies
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: shahkarnik12@gmail.com
