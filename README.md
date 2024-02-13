@@ -10,7 +10,6 @@
 - 🌱 I’m currently Exploring myself in different areas
 - 👯 I’m looking to collaborate with Data Analytics, Web Development & Python Projects
 - ⚡ Fun fact: I love to Travel and Watch Movies
-- 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: shahkarnik12@gmail.com
 
 <br />
@@ -20,8 +19,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/karnik-shah12" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
 <a href="https://www.instagram.com/karnik.shah/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40" /></a>
-<a href="" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height="30" width="40" /></a>
-<a href="" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height="30" width="40" /></a>
+<!-- <a href="" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height="30" width="40" /></a>
+<a href="" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height="30" width="40" /></a> -->
 </p>
 <br/>
 <br/>
